@@ -1,8 +1,9 @@
 # Payroll-Manager
 
 ## Description
- i created this repository to allow a payroll manger to add employees and their slaary. It keeps a recode of the information. 
+ i created this repository to allow a payroll manager to add employees and their salary. They will be sorted alphabetically on the table. It keeps a record of the information. The user will be able to pick a random employee for a raffle. 
 ## Usage
+<img width="694" alt="Payroll Manger" src="https://github.com/BrittShakier/Payroll-Manager/assets/159391747/b0c82288-08c0-4d7d-8812-835e6c55540e">
 
 Link :
 ## Credits
